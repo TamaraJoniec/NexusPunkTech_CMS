@@ -24,6 +24,6 @@ The project is developed using CraftCMS and is hosted on a server configured wit
 Check out the live app here: [NexusPunkTech Agency](https://nexuspunktech.agency)
 
 
-![Website Screenshot](./assets/screenshot.png)
+![Website Screenshot](https://github.com/TamaraJoniec/NexusPunkTech/raw/main/assets/screenshot.png)
 
 
