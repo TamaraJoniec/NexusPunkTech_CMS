@@ -30,3 +30,8 @@ Check out the live app here: [NexusPunkTech Agency](https://nexuspunktech.agency
 
 For collaborators or stakeholders wishing to view ongoing development, the current build can be accessed [here](https://my-craft-project.ddev.site/). Please note this is a development environment and may not be reflective of the final product.
 
+## Administrative Access
+
+For collaborators requiring administrative access to the development environment, the login page can be accessed [here](https://my-craft-project.ddev.site/admin/login). This is a secure environment, and access is restricted. Please ensure that all security protocols are followed when accessing and using the admin interface.
+
+
