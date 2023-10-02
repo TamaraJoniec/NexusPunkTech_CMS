@@ -26,4 +26,7 @@ Check out the live app here: [NexusPunkTech Agency](https://nexuspunktech.agency
 
 ![Website Screenshot](https://github.com/TamaraJoniec/NexusPunkTech/raw/main/assets/screenshot.png)
 
+## Development Site
+
+For collaborators or stakeholders wishing to view ongoing development, the current build can be accessed [here](https://my-craft-project.ddev.site/). Please note this is a development environment and may not be reflective of the final product.
 
