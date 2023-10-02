@@ -1,0 +1,23 @@
+dateModified: 1696262206
+email:
+  fromEmail: info@designrise.co.uk
+  fromName: nexuspunktech
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    cfaa6c55-cc21-4aa1-aa61-d48edd0b6c5f: Common # Common
+    e7e66f2c-b26a-45bd-9d5b-987a58ed5b7f: nexuspunktech # nexuspunktech
+    f0c0f780-e0b4-46ca-866b-ef8f8384b774: nexuspunktech # nexuspunktech
+    f729fa69-d410-419e-b052-b752a4e8a52e: Nexuspunktech.agency # Nexuspunktech.agency
+system:
+  edition: solo
+  live: true
+  name: nexuspunktech
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

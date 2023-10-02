@@ -1,0 +1,17 @@
+# Ignore sensitive environment files and directories
+.env
+.config/license.key
+/storage/*
+!/storage/runtime/.gitkeep
+
+# Ignore vendor directory (dependencies)
+/vendor/
+
+# Ignore IDE and editor files
+.idea/
+*.swp
+*.swo
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
